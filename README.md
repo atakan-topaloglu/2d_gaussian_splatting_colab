@@ -12,9 +12,10 @@ This project provides a Google Colab implementation of the original reference im
 
 1. Upload your COLMAP or NERF Synthetic dataset to Google Drive.
 2. Launch the 2DGS Colab Notebook.
-3. Execute the training and rendering process.
-4. Download the generated output folder from Google Drive.
-5. Run [SIBR Viewer for viewing 2DGS](https://github.com/hbb1/2d-gaussian-splatting?tab=readme-ov-file#sibr-viewer) locally to view the outputs.
+3. Ensure that you are connected to a GPU runtime.
+4. Execute the training and rendering process.
+5. Download the generated output folder from Google Drive.
+6. Run [SIBR Viewer for viewing 2DGS](https://github.com/hbb1/2d-gaussian-splatting?tab=readme-ov-file#sibr-viewer) locally to view the outputs.
 
 ## Acknowledgements
 
